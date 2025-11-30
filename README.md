@@ -54,8 +54,10 @@
 
 ### Daftar Pustaka
 
-> 1. [Chandrawan, D., Widjojo, J., & Munir, A. (2023). Financal Technology Peer-to-Peer Lending Sebagai Salah Satu Solusi Pembiayaan UMKM. Nilai, 1(2), 56–65. https://doi.org/10.56881](https://jurnalbima.id/index.php/nilai/article/view/153)
-> 2. [Kartika, R., Darna, N., & Setiawan, I. (2019). ANALISIS PEER TO PEER LENDING DI INDONESIA. Akuntabilitas: Jurnal Ilmu-Ilmu Ekonomi, 12(2), 76–86. https://doi.org/10.35457/xxx](https://ejournal.unisbablitar.ac.id/index.php/akuntabilitas/article/view/902)
+1. [Chandrawan, D., Widjojo, J., & Munir, A. (2023). Financal Technology Peer-to-Peer Lending Sebagai Salah Satu Solusi Pembiayaan UMKM. Nilai, 1(2), 56–65. https://doi.org/10.56881](https://jurnalbima.id/index.php/nilai/article/view/153)
+2. [Kartika, R., Darna, N., & Setiawan, I. (2019). ANALISIS PEER TO PEER LENDING DI INDONESIA. Akuntabilitas: Jurnal Ilmu-Ilmu Ekonomi, 12(2), 76–86. https://doi.org/10.35457/xxx](https://ejournal.unisbablitar.ac.id/index.php/akuntabilitas/article/view/902)
 
-[^1]: Demitri Fernando Putra Aryandi - Sistem Informasi - 322310010
-[^2]: Ainu Azzaria - Sistem Informasi - 322310021
+### Penyusun
+
+- Demitri Fernando Putra Aryandi - Sistem Informasi - 322310010
+- Ainu Azzaria - Sistem Informasi - 322310021
